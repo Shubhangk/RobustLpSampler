@@ -755,7 +755,7 @@ if __name__ == '__main__':
         print("---------")
 
 
-
+# deprecated tests. 
 #TestMultiBias()
 #TestUniform500()
 #TestSingleBias()
